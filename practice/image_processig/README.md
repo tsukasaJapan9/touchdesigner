@@ -1,6 +1,6 @@
 # simple image processing
 
-![サンプルイメージ](https://github.com/tsukasaJapan9/images/blob/master/image_processing.jpg)
+![サンプルイメージ](https://github.com/tsukasaJapan9/touchdesigner/blob/master/images/image_processing.jpg)
 
 # note
 ## Macのカメラが起動しないとき
