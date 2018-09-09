@@ -1,4 +1,4 @@
-#basic audio visualization
+#sample for fireworks
 
 ![サンプルイメージ](https://github.com/tsukasaJapan9/touchdesigner/blob/master/images/fireworks.jpg)
 
